@@ -13,7 +13,7 @@ Pemrograman Python Menggunakan PyCharm
 
 - IF Statement IF - ELSE Statement IF - ELIF - ELSE Statement IF Bersarang(Nested IF)
 
-- macam-macam jenis percabangan. Berikut ini merupakan penjelasannya
+# macam-macam jenis percabangan. Berikut ini merupakan penjelasannya
 - IF Statement
 
 - Fungsi IF pada python adalah untuk memberikan kondisi tertentu pada program supaya program bisa berjalan sesuai dengan kondisi tersebut. Fungsi yang dipakai adalah IF(jika). Dengan fungsi tersebut, kita dapat lebih leluasa dalam pemrograman python.
