@@ -69,7 +69,7 @@ else :
 - Pengertian statement if python
 - Pada dasarnya, kondisi If Else If adalah sebuah struktur logika program yang di dapat dengan cara menyambung beberapa kondisi If Else menjadi sebuah kesatuan. Jika kondisi pertama tidak terpenuhi atau bernilai False, maka kode program akan lanjut ke kondisi If di bawahnya. Jika ternyata tidak juga terpenuhi, akan lanjut lagi ke kondisi If di bawahnya, dst hingga blok Else terakhir atau terdapat kondisi If yang bernilai True.
 
-- Kapan Percabangan di Gunakan?
+# Kapan Percabangan di Gunakan?
 - nah sekarang muncul pertanyaan kapan percabangan itu digunakan?, percabangan digunakan saat terdapat suatu keputusan atau dihadapkan pada kondisi tertentu, disini percabangan akan mengevaluasi kondisi yang hasilnya True atau False, yang dimana jika Kondisinya True maka pernyataan(statement) dalam blok tersebut akan di eksekusi dan Jika hasilnya False maka pernyataan(statement) dalam blok lain akan di eksekusi, dalam python ada 3 jenis pernyataan atau statement yang digunakan, berikut tabelnya.
 ![](https://github.com/aditya-sultan/labspy02.01/blob/master/python%203%20jenis.png)
 - ok sekarang kita mari kita bahas satu-satu
