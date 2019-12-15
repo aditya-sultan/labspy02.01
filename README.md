@@ -57,15 +57,15 @@ statemen
                ... else :           
                ...     print "Angka merupakan 0" 
                ...   Angka merupakan
-- IF Bersarang(Nested IF) IF Bersarang merupakan kondisi yang didalamnya terdapat kondisi lagi. Misalkan keputusan kita setelah SMA, ada dua pilihan. Yaitu Kuliah atau Kerja. Jika kita memilih kuliah, ada pilihan lagi didalamnya, yaitu daftar di kampus mana. dan seterusnya. Hal tersebut bisa kita bahasakan denga IF dalam IF.
+IF Bersarang(Nested IF) IF Bersarang merupakan kondisi yang didalamnya terdapat kondisi lagi. Misalkan keputusan kita setelah SMA, ada dua pilihan. Yaitu Kuliah atau Kerja. Jika kita memilih kuliah, ada pilihan lagi didalamnya, yaitu daftar di kampus mana. dan seterusnya. Hal tersebut bisa kita bahasakan denga IF dalam IF.
 
-if x == y:    
-  print x, y "mempunyai nilai yang sama"  
-else :    
-  if x > y :         
-       print x, "lebih besar dari", y   
-  if x < y :         
-       print x, "lebih kecil dari", y 
+               if x == y:    
+                  print x, y "mempunyai nilai yang sama"  
+                        else :    
+                if x > y :         
+                    print x, "lebih besar dari", y   
+                if x < y :         
+                    print x, "lebih kecil dari", y 
 - Pengertian statement if python
 - Pada dasarnya, kondisi If Else If adalah sebuah struktur logika program yang di dapat dengan cara menyambung beberapa kondisi If Else menjadi sebuah kesatuan. Jika kondisi pertama tidak terpenuhi atau bernilai False, maka kode program akan lanjut ke kondisi If di bawahnya. Jika ternyata tidak juga terpenuhi, akan lanjut lagi ke kondisi If di bawahnya, dst hingga blok Else terakhir atau terdapat kondisi If yang bernilai True.
 
